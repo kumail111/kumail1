@@ -8,6 +8,8 @@ public class Helo {
 		// TODO Auto-generated method stub
 System.out.println("Kumail");
 System.out.println("haider");
+System.out.println("ali");
+
 	}
 
 }
